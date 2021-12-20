@@ -12,3 +12,4 @@ Here are my food options:
 * pizza
 * wanton mee
 * hokkien mee
+* pasta
