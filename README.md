@@ -11,3 +11,4 @@ Here are my food options:
 * sushi
 * pizza
 * wanton mee
+* hokkien mee
