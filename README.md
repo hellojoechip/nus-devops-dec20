@@ -2,7 +2,7 @@
 
 lorem ipsum...
 
-!()[sentosa.jpg]
+![](sentosa.jpg)
 
 ## I believe this will print a smaller text
 
