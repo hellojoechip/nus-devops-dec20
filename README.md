@@ -2,6 +2,8 @@
 
 lorem ipsum...
 
+!()[sentosa.jpg]
+
 ## I believe this will print a smaller text
 
 lorem ipsum, it's time for lunch pretty soon!
