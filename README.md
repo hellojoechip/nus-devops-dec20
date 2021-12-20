@@ -14,5 +14,4 @@ Here are my food options:
 * pizza
 * wanton mee
 * hokkien mee
-* fish and chips
-* roasted chicken
+* Piggyinu is here
